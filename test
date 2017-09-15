@@ -1,3 +1,5 @@
+Echo "Date $(date +%D. +%M. +%y) "
+
 #This file below checks if the jump file created
 if [ -f /mnt/jump ]
 then
